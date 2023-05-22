@@ -23,7 +23,7 @@ I am excited to use my skills to make a difference in the world. I believe that 
 
 
 ### 📊 Stats
-![Aryanandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanandha66&show_icons=true&theme=gruvbox)
+![Aryanandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanandhakp66&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HriThik-MaNoj&theme=gruvbox&border_radius=4.5) -->
 
