@@ -9,7 +9,7 @@
 
 ## I'm a 𝘼𝙗𝙤𝙪𝙩 𝙮𝙤𝙪
 
-- 💬 Ask me about ......python.
+- 💬 Ask me about ......java ,C,C++,Rust.
 - 📫 Reach me at nandhaarya66@gmail.com
 
 ### Connect with me:
