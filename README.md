@@ -16,6 +16,17 @@
 
 <a href="https://instagram.com/aryanandhakp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanandhakp" height="30" width="40" /></a>
 
+<a href="https://www.linkedin.com/in/aryanandha-kp-83b658268/" target="blank"><img align="center" src="
+https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svghttps://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="aryanandhakp" height="30" width="40" /></a>
+
+
+
+
+
+
+
+
+
 
 
 
