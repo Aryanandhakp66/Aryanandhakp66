@@ -2,12 +2,6 @@
 
 
 
-*Task 1*
-
-~ Customize your Github readme repositorie.
-~ You can edit the code below and make your readme repositorie or you can code yourself.
-
-*Code :*
 
 ### Hi there, Aryanandhakp66👋
 
