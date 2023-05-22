@@ -21,6 +21,7 @@ I am excited to use my skills to make a difference in the world. I believe that 
 ### Connect with me:
 
 <a href="https://www.instagram.com/aryanandhakp/?igshid=OTk0YzhjMDVlZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AryàNândha🎀" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryanandha-kp-83b658268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="Aryanandha kp" height="30" width="40" /></a>
 
 #
 
