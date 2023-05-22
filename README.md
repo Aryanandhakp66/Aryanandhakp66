@@ -1,39 +1,30 @@
+# 🏄‍♂️ Aryanandha 
 
 
 
+I am a computer science engineering student with a passion for programming. I am currently familiar with C,Rust , Java, and C++. I am always looking for new challenges and I am eager to learn new things. I am a team player and I am always willing to help others. I am also a hard worker and I am always willing to put in the extra effort.
+
+I am excited to use my skills to make a difference in the world. I believe that technology can be used to solve some of the world's biggest problems. I am committed to using my skills to make the world a better place.
 
 
-### Hi there, Aryanandhakp66👋
+### 🧰 Languages and Tools
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-## I'm a 𝘼𝙗𝙤𝙪𝙩 𝙮𝙤𝙪
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-- 💬 Ask me about ......java ,C,C++,Rust.
-- 📫 Reach me at nandhaarya66@gmail.com
+<br />
 
-### Connect with me:
-
-<a href="https://instagram.com/aryanandhakp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanandhakp" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/aryanandha-kp-83b658268/" target="blank"><img align="centre" src="
-https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="aryanandha" height="30" width="40" /></a>
-
-
-
+#
 
 
 
+### 📊 Stats
+![Aryanandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanandha66&show_icons=true&theme=gruvbox)
 
-
-
-
-
-
-
-
-
-
-
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HriThik-MaNoj&theme=gruvbox&border_radius=4.5) -->
 
 
