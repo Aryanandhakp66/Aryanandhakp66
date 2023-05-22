@@ -20,7 +20,7 @@ I am excited to use my skills to make a difference in the world. I believe that 
 
 ### Connect with me:
 
-<a href="https://instagram.com/geekymentalist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekymentalist" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aryanandhakp/?igshid=OTk0YzhjMDVlZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AryàNândha🎀" height="30" width="40" /></a>
 
 #
 
