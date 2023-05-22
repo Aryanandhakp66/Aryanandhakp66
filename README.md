@@ -18,6 +18,10 @@ I am excited to use my skills to make a difference in the world. I believe that 
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg" />
 <br />
 
+### Connect with me:
+
+<a href="https://instagram.com/geekymentalist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekymentalist" height="30" width="40" /></a>
+
 #
 
 
