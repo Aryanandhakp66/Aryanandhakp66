@@ -5,7 +5,7 @@
 I am a computer science engineering student with a passion for programming. I am currently familiar with C,Rust , Java, and C++. I am always looking for new challenges and I am eager to learn new things. I am a team player and I am always willing to help others. I am also a hard worker and I am always willing to put in the extra effort.
 
 I am excited to use my skills to make a difference in the world. I believe that technology can be used to solve some of the world's biggest problems. I am committed to using my skills to make the world a better place.
-
+- 📫 Reach me at nandhaarya66@gmail.com
 
 ### 🧰 Languages and Tools
 
