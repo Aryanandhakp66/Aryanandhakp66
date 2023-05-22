@@ -1,6 +1,6 @@
 # 🏄‍♂️ Aryanandha 
 
-
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 I am a computer science engineering student with a passion for programming. I am currently familiar with C,Rust , Java, and C++. I am always looking for new challenges and I am eager to learn new things. I am a team player and I am always willing to help others. I am also a hard worker and I am always willing to put in the extra effort.
 
